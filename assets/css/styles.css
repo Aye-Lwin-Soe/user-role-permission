@@ -1,0 +1,21 @@
+
+.sidebar {
+    background-color: #007bff;
+    height: 100vh;
+}
+
+.sidebar .nav-item:hover {
+    color: white;
+    background-color: #a3c4e7;
+}
+
+.sidebar .nav-item.mt-1 {
+    background-color: #dc3545; 
+}
+
+.sidebar .nav-link.active {
+    background-color: #007bff; 
+    color: white;
+    font-weight: bold;
+}
+
